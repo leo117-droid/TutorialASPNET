@@ -1,0 +1,16 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace SistemaInventario.AccesodeDatos.Repositorio.iRepositorio
+{
+    public interface iUnidadTrabajo : IDisposable
+    {
+        iBodegaRepositorio Bodega {  get; }
+
+        Task Guardar();
+
+    }
+}

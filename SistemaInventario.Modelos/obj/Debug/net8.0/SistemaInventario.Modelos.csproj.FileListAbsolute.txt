@@ -1,0 +1,16 @@
+C:\Users\leomo\OneDrive\Documents\Trabajos Universidad\TutorialASPNET\SistemaInventario.Modelos\bin\Debug\net8.0\SistemaInventario.Modelos.deps.json
+C:\Users\leomo\OneDrive\Documents\Trabajos Universidad\TutorialASPNET\SistemaInventario.Modelos\bin\Debug\net8.0\SistemaInventario.Modelos.dll
+C:\Users\leomo\OneDrive\Documents\Trabajos Universidad\TutorialASPNET\SistemaInventario.Modelos\bin\Debug\net8.0\SistemaInventario.Modelos.pdb
+C:\Users\leomo\OneDrive\Documents\Trabajos Universidad\TutorialASPNET\SistemaInventario.Modelos\bin\Debug\net8.0\SistemaInventario.Utilidades.dll
+C:\Users\leomo\OneDrive\Documents\Trabajos Universidad\TutorialASPNET\SistemaInventario.Modelos\bin\Debug\net8.0\SistemaInventario.Utilidades.pdb
+C:\Users\leomo\OneDrive\Documents\Trabajos Universidad\TutorialASPNET\SistemaInventario.Modelos\obj\Debug\net8.0\SistemaInventario.Modelos.csproj.AssemblyReference.cache
+C:\Users\leomo\OneDrive\Documents\Trabajos Universidad\TutorialASPNET\SistemaInventario.Modelos\obj\Debug\net8.0\SistemaInventario.Modelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leomo\OneDrive\Documents\Trabajos Universidad\TutorialASPNET\SistemaInventario.Modelos\obj\Debug\net8.0\SistemaInventario.Modelos.AssemblyInfoInputs.cache
+C:\Users\leomo\OneDrive\Documents\Trabajos Universidad\TutorialASPNET\SistemaInventario.Modelos\obj\Debug\net8.0\SistemaInventario.Modelos.AssemblyInfo.cs
+C:\Users\leomo\OneDrive\Documents\Trabajos Universidad\TutorialASPNET\SistemaInventario.Modelos\obj\Debug\net8.0\SistemaInventario.Modelos.csproj.CoreCompileInputs.cache
+C:\Users\leomo\OneDrive\Documents\Trabajos Universidad\TutorialASPNET\SistemaInventario.Modelos\obj\Debug\net8.0\SistemaInventario.Modelos.sourcelink.json
+C:\Users\leomo\OneDrive\Documents\Trabajos Universidad\TutorialASPNET\SistemaInventario.Modelos\obj\Debug\net8.0\SistemaI.5E10B74F.Up2Date
+C:\Users\leomo\OneDrive\Documents\Trabajos Universidad\TutorialASPNET\SistemaInventario.Modelos\obj\Debug\net8.0\SistemaInventario.Modelos.dll
+C:\Users\leomo\OneDrive\Documents\Trabajos Universidad\TutorialASPNET\SistemaInventario.Modelos\obj\Debug\net8.0\refint\SistemaInventario.Modelos.dll
+C:\Users\leomo\OneDrive\Documents\Trabajos Universidad\TutorialASPNET\SistemaInventario.Modelos\obj\Debug\net8.0\SistemaInventario.Modelos.pdb
+C:\Users\leomo\OneDrive\Documents\Trabajos Universidad\TutorialASPNET\SistemaInventario.Modelos\obj\Debug\net8.0\ref\SistemaInventario.Modelos.dll
