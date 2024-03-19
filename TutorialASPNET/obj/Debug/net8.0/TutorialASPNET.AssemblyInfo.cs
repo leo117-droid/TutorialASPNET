@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TutorialASPNET")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cb126692646d92d54b788446b67119ac3eaa8d2b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0e6b5e38c278a4a2ae6ee9ba5910d76106e5472d")]
 [assembly: System.Reflection.AssemblyProductAttribute("TutorialASPNET")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TutorialASPNET")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

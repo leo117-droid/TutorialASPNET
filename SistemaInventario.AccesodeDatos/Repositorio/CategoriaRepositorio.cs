@@ -9,23 +9,23 @@ using TutorialASPNET.SistemaInventario.AccesodeDatos.Data;
 
 namespace SistemaInventario.AccesodeDatos.Repositorio
 {
-    public class BodegaRepositorio : Repositorio<Bodega>, iBodegaRepositorio
+    public class CategoriaRepositorio : Repositorio<Categoria>, iCategoriaRepositorio
     {
         private readonly ApplicationDbContext _db;
 
-        public BodegaRepositorio(ApplicationDbContext db) : base(db)
+        public CategoriaRepositorio(ApplicationDbContext db) : base(db)
         {
             _db = db;
         }
-        public void actualizar(Bodega bodega)
+        public void actualizar(Categoria categoria)
         {
-            var bodegaDB = _db.Bodegas.FirstOrDefault(b => b.Id == bodega.Id);
+            var bodegaDB = _db.Bodegas.FirstOrDefault(b => b.Id == categoria.Id);
             if (bodegaDB != null)
             {
-                bodega.Nombre = bodegaDB.Nombre;
-                bodega.Descripcion = bodegaDB.Descripcion;
-                bodega.Estado = bodegaDB.Estado;
-                bodega.Id = bodegaDB.Id;
+                categoria.Nombre = bodegaDB.Nombre;
+                categoria.Descripcion = bodegaDB.Descripcion;
+                categoria.Estado = bodegaDB.Estado;
+                categoria.Id = bodegaDB.Id;
                 _db.SaveChanges();
             }
         }
