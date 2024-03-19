@@ -3,6 +3,30 @@
   "WorkspaceRootPath": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C361E33D-C933-4D13-B4F4-42D4EFADACB3}|TutorialASPNET\\TutorialASPNET.csproj|c:\\users\\leomo\\onedrive\\documents\\trabajos universidad\\tutorialaspnet\\tutorialaspnet\\wwwroot\\js\\categoria.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C361E33D-C933-4D13-B4F4-42D4EFADACB3}|TutorialASPNET\\TutorialASPNET.csproj|solutionrelative:tutorialaspnet\\wwwroot\\js\\categoria.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C361E33D-C933-4D13-B4F4-42D4EFADACB3}|TutorialASPNET\\TutorialASPNET.csproj|c:\\users\\leomo\\onedrive\\documents\\trabajos universidad\\tutorialaspnet\\tutorialaspnet\\areas\\admin\\views\\marca\\upsert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C361E33D-C933-4D13-B4F4-42D4EFADACB3}|TutorialASPNET\\TutorialASPNET.csproj|solutionrelative:tutorialaspnet\\areas\\admin\\views\\marca\\upsert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C361E33D-C933-4D13-B4F4-42D4EFADACB3}|TutorialASPNET\\TutorialASPNET.csproj|c:\\users\\leomo\\onedrive\\documents\\trabajos universidad\\tutorialaspnet\\tutorialaspnet\\wwwroot\\js\\marca.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C361E33D-C933-4D13-B4F4-42D4EFADACB3}|TutorialASPNET\\TutorialASPNET.csproj|solutionrelative:tutorialaspnet\\wwwroot\\js\\marca.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C361E33D-C933-4D13-B4F4-42D4EFADACB3}|TutorialASPNET\\TutorialASPNET.csproj|c:\\users\\leomo\\onedrive\\documents\\trabajos universidad\\tutorialaspnet\\tutorialaspnet\\areas\\admin\\controllers\\marcacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C361E33D-C933-4D13-B4F4-42D4EFADACB3}|TutorialASPNET\\TutorialASPNET.csproj|solutionrelative:tutorialaspnet\\areas\\admin\\controllers\\marcacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C92250D8-68BC-44AB-9768-E6FCAE0E76FE}|SistemaInventario.AccesodeDatos\\SistemaInventario.AccesodeDatos.csproj|c:\\users\\leomo\\onedrive\\documents\\trabajos universidad\\tutorialaspnet\\sistemainventario.accesodedatos\\repositorio\\marcarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C92250D8-68BC-44AB-9768-E6FCAE0E76FE}|SistemaInventario.AccesodeDatos\\SistemaInventario.AccesodeDatos.csproj|solutionrelative:sistemainventario.accesodedatos\\repositorio\\marcarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C92250D8-68BC-44AB-9768-E6FCAE0E76FE}|SistemaInventario.AccesodeDatos\\SistemaInventario.AccesodeDatos.csproj|c:\\users\\leomo\\onedrive\\documents\\trabajos universidad\\tutorialaspnet\\sistemainventario.accesodedatos\\repositorio\\unidadtrabajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C92250D8-68BC-44AB-9768-E6FCAE0E76FE}|SistemaInventario.AccesodeDatos\\SistemaInventario.AccesodeDatos.csproj|solutionrelative:sistemainventario.accesodedatos\\repositorio\\unidadtrabajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C361E33D-C933-4D13-B4F4-42D4EFADACB3}|TutorialASPNET\\TutorialASPNET.csproj|c:\\users\\leomo\\onedrive\\documents\\trabajos universidad\\tutorialaspnet\\tutorialaspnet\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C361E33D-C933-4D13-B4F4-42D4EFADACB3}|TutorialASPNET\\TutorialASPNET.csproj|solutionrelative:tutorialaspnet\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -43,20 +67,12 @@
       "RelativeMoniker": "D:0:0:{C92250D8-68BC-44AB-9768-E6FCAE0E76FE}|SistemaInventario.AccesodeDatos\\SistemaInventario.AccesodeDatos.csproj|solutionrelative:sistemainventario.accesodedatos\\repositorio\\irepositorio\\iproductorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C92250D8-68BC-44AB-9768-E6FCAE0E76FE}|SistemaInventario.AccesodeDatos\\SistemaInventario.AccesodeDatos.csproj|c:\\users\\leomo\\onedrive\\documents\\trabajos universidad\\tutorialaspnet\\sistemainventario.accesodedatos\\repositorio\\unidadtrabajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C92250D8-68BC-44AB-9768-E6FCAE0E76FE}|SistemaInventario.AccesodeDatos\\SistemaInventario.AccesodeDatos.csproj|solutionrelative:sistemainventario.accesodedatos\\repositorio\\unidadtrabajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C361E33D-C933-4D13-B4F4-42D4EFADACB3}|TutorialASPNET\\TutorialASPNET.csproj|c:\\users\\leomo\\onedrive\\documents\\trabajos universidad\\tutorialaspnet\\tutorialaspnet\\wwwroot\\js\\producto.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{C361E33D-C933-4D13-B4F4-42D4EFADACB3}|TutorialASPNET\\TutorialASPNET.csproj|solutionrelative:tutorialaspnet\\wwwroot\\js\\producto.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C361E33D-C933-4D13-B4F4-42D4EFADACB3}|TutorialASPNET\\TutorialASPNET.csproj|c:\\users\\leomo\\onedrive\\documents\\trabajos universidad\\tutorialaspnet\\tutorialaspnet\\areas\\admin\\views\\producto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C361E33D-C933-4D13-B4F4-42D4EFADACB3}|TutorialASPNET\\TutorialASPNET.csproj|solutionrelative:tutorialaspnet\\areas\\admin\\views\\producto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C92250D8-68BC-44AB-9768-E6FCAE0E76FE}|SistemaInventario.AccesodeDatos\\SistemaInventario.AccesodeDatos.csproj|c:\\users\\leomo\\onedrive\\documents\\trabajos universidad\\tutorialaspnet\\sistemainventario.accesodedatos\\repositorio\\marcarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C92250D8-68BC-44AB-9768-E6FCAE0E76FE}|SistemaInventario.AccesodeDatos\\SistemaInventario.AccesodeDatos.csproj|solutionrelative:sistemainventario.accesodedatos\\repositorio\\marcarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C92250D8-68BC-44AB-9768-E6FCAE0E76FE}|SistemaInventario.AccesodeDatos\\SistemaInventario.AccesodeDatos.csproj|c:\\users\\leomo\\onedrive\\documents\\trabajos universidad\\tutorialaspnet\\sistemainventario.accesodedatos\\configuracion\\productoconfiguracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -103,44 +119,67 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\TutorialASPNET\\Views\\Shared\\Error.cshtml",
-              "RelativeDocumentMoniker": "TutorialASPNET\\Views\\Shared\\Error.cshtml",
-              "ToolTip": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\TutorialASPNET\\Views\\Shared\\Error.cshtml",
-              "RelativeToolTip": "TutorialASPNET\\Views\\Shared\\Error.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-19T05:51:45.089Z",
+              "Title": "Categoria.js",
+              "DocumentMoniker": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\TutorialASPNET\\wwwroot\\js\\Categoria.js",
+              "RelativeDocumentMoniker": "TutorialASPNET\\wwwroot\\js\\Categoria.js",
+              "ToolTip": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\TutorialASPNET\\wwwroot\\js\\Categoria.js",
+              "RelativeToolTip": "TutorialASPNET\\wwwroot\\js\\Categoria.js",
+              "ViewState": "AQIAACsAAAAAAAAAAAAQwD4AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-19T06:19:38.215Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\SistemaInventario.Modelos\\ErrorViewModels\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "SistemaInventario.Modelos\\ErrorViewModels\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\SistemaInventario.Modelos\\ErrorViewModels\\ErrorViewModel.cs",
-              "RelativeToolTip": "SistemaInventario.Modelos\\ErrorViewModels\\ErrorViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-19T05:40:58.335Z",
-              "EditorCaption": ""
+              "Title": "Upsert.cshtml",
+              "DocumentMoniker": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\TutorialASPNET\\Areas\\Admin\\Views\\Marca\\Upsert.cshtml",
+              "RelativeDocumentMoniker": "TutorialASPNET\\Areas\\Admin\\Views\\Marca\\Upsert.cshtml",
+              "ToolTip": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\TutorialASPNET\\Areas\\Admin\\Views\\Marca\\Upsert.cshtml",
+              "RelativeToolTip": "TutorialASPNET\\Areas\\Admin\\Views\\Marca\\Upsert.cshtml",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAjwBsAAABoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-19T06:13:04.23Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
+              "Title": "MarcaController.cs",
+              "DocumentMoniker": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\TutorialASPNET\\Areas\\Admin\\Controllers\\MarcaController.cs",
+              "RelativeDocumentMoniker": "TutorialASPNET\\Areas\\Admin\\Controllers\\MarcaController.cs",
+              "ToolTip": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\TutorialASPNET\\Areas\\Admin\\Controllers\\MarcaController.cs",
+              "RelativeToolTip": "TutorialASPNET\\Areas\\Admin\\Controllers\\MarcaController.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAkwAkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T06:11:39.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Marca.js",
+              "DocumentMoniker": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\TutorialASPNET\\wwwroot\\js\\Marca.js",
+              "RelativeDocumentMoniker": "TutorialASPNET\\wwwroot\\js\\Marca.js",
+              "ToolTip": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\TutorialASPNET\\wwwroot\\js\\Marca.js",
+              "RelativeToolTip": "TutorialASPNET\\wwwroot\\js\\Marca.js",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwD4AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-19T06:03:14.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\TutorialASPNET\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "TutorialASPNET\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\TutorialASPNET\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "TutorialASPNET\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAACYAAACEAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAIBJwCYAAACEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-03-19T04:54:24.123Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 15,
               "Title": "iProductoRepositorio.cs",
               "DocumentMoniker": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\SistemaInventario.AccesodeDatos\\Repositorio\\iRepositorio\\iProductoRepositorio.cs",
               "RelativeDocumentMoniker": "SistemaInventario.AccesodeDatos\\Repositorio\\iRepositorio\\iProductoRepositorio.cs",
@@ -152,19 +191,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "ProductoRepositorio.cs",
               "DocumentMoniker": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\SistemaInventario.AccesodeDatos\\Repositorio\\ProductoRepositorio.cs",
               "RelativeDocumentMoniker": "SistemaInventario.AccesodeDatos\\Repositorio\\ProductoRepositorio.cs",
               "ToolTip": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\SistemaInventario.AccesodeDatos\\Repositorio\\ProductoRepositorio.cs",
               "RelativeToolTip": "SistemaInventario.AccesodeDatos\\Repositorio\\ProductoRepositorio.cs",
-              "ViewState": "AQIAACoAAAAAAAAAAAAYwEIAAAATAAAA",
+              "ViewState": "AQIAACoAAAAAAAAAAAA1wEIAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-19T04:35:55.898Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "ProductoController.cs",
               "DocumentMoniker": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\TutorialASPNET\\Areas\\Admin\\Controllers\\ProductoController.cs",
               "RelativeDocumentMoniker": "TutorialASPNET\\Areas\\Admin\\Controllers\\ProductoController.cs",
@@ -177,54 +216,18 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ProductoVM.cs",
-              "DocumentMoniker": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\SistemaInventario.Modelos\\ViewModels\\ProductoVM.cs",
-              "RelativeDocumentMoniker": "SistemaInventario.Modelos\\ViewModels\\ProductoVM.cs",
-              "ToolTip": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\SistemaInventario.Modelos\\ViewModels\\ProductoVM.cs",
-              "RelativeToolTip": "SistemaInventario.Modelos\\ViewModels\\ProductoVM.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
+              "Title": "MarcaRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\SistemaInventario.AccesodeDatos\\Repositorio\\MarcaRepositorio.cs",
+              "RelativeDocumentMoniker": "SistemaInventario.AccesodeDatos\\Repositorio\\MarcaRepositorio.cs",
+              "ToolTip": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\SistemaInventario.AccesodeDatos\\Repositorio\\MarcaRepositorio.cs",
+              "RelativeToolTip": "SistemaInventario.AccesodeDatos\\Repositorio\\MarcaRepositorio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-19T04:57:28.958Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DS.cs",
-              "DocumentMoniker": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\SistemaInventario.Utilidades\\DS.cs",
-              "RelativeDocumentMoniker": "SistemaInventario.Utilidades\\DS.cs",
-              "ToolTip": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\SistemaInventario.Utilidades\\DS.cs",
-              "RelativeToolTip": "SistemaInventario.Utilidades\\DS.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-19T05:37:38.029Z"
+              "WhenOpened": "2024-03-19T04:37:15.503Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\SistemaInventario.AccesodeDatos\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "SistemaInventario.AccesodeDatos\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\SistemaInventario.AccesodeDatos\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "SistemaInventario.AccesodeDatos\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA2AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-19T04:16:38.235Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "iUnidadTrabajo.cs",
-              "DocumentMoniker": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\SistemaInventario.AccesodeDatos\\Repositorio\\iRepositorio\\iUnidadTrabajo.cs",
-              "RelativeDocumentMoniker": "SistemaInventario.AccesodeDatos\\Repositorio\\iRepositorio\\iUnidadTrabajo.cs",
-              "ToolTip": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\SistemaInventario.AccesodeDatos\\Repositorio\\iRepositorio\\iUnidadTrabajo.cs",
-              "RelativeToolTip": "SistemaInventario.AccesodeDatos\\Repositorio\\iRepositorio\\iUnidadTrabajo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-19T04:42:36.005Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
               "Title": "UnidadTrabajo.cs",
               "DocumentMoniker": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\SistemaInventario.AccesodeDatos\\Repositorio\\UnidadTrabajo.cs",
               "RelativeDocumentMoniker": "SistemaInventario.AccesodeDatos\\Repositorio\\UnidadTrabajo.cs",
@@ -236,31 +239,91 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "MarcaRepositorio.cs",
-              "DocumentMoniker": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\SistemaInventario.AccesodeDatos\\Repositorio\\MarcaRepositorio.cs",
-              "RelativeDocumentMoniker": "SistemaInventario.AccesodeDatos\\Repositorio\\MarcaRepositorio.cs",
-              "ToolTip": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\SistemaInventario.AccesodeDatos\\Repositorio\\MarcaRepositorio.cs",
-              "RelativeToolTip": "SistemaInventario.AccesodeDatos\\Repositorio\\MarcaRepositorio.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBsAAAAgAAAA",
+              "DocumentIndex": 7,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\SistemaInventario.Modelos\\ErrorViewModels\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "SistemaInventario.Modelos\\ErrorViewModels\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\SistemaInventario.Modelos\\ErrorViewModels\\ErrorViewModel.cs",
+              "RelativeToolTip": "SistemaInventario.Modelos\\ErrorViewModels\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-19T04:37:15.503Z"
+              "WhenOpened": "2024-03-19T05:40:58.335Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 6,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\TutorialASPNET\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "TutorialASPNET\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\TutorialASPNET\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "TutorialASPNET\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-19T05:51:45.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductoVM.cs",
+              "DocumentMoniker": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\SistemaInventario.Modelos\\ViewModels\\ProductoVM.cs",
+              "RelativeDocumentMoniker": "SistemaInventario.Modelos\\ViewModels\\ProductoVM.cs",
+              "ToolTip": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\SistemaInventario.Modelos\\ViewModels\\ProductoVM.cs",
+              "RelativeToolTip": "SistemaInventario.Modelos\\ViewModels\\ProductoVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T04:57:28.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DS.cs",
+              "DocumentMoniker": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\SistemaInventario.Utilidades\\DS.cs",
+              "RelativeDocumentMoniker": "SistemaInventario.Utilidades\\DS.cs",
+              "ToolTip": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\SistemaInventario.Utilidades\\DS.cs",
+              "RelativeToolTip": "SistemaInventario.Utilidades\\DS.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T05:37:38.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\SistemaInventario.AccesodeDatos\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "SistemaInventario.AccesodeDatos\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\SistemaInventario.AccesodeDatos\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "SistemaInventario.AccesodeDatos\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T04:16:38.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "iUnidadTrabajo.cs",
+              "DocumentMoniker": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\SistemaInventario.AccesodeDatos\\Repositorio\\iRepositorio\\iUnidadTrabajo.cs",
+              "RelativeDocumentMoniker": "SistemaInventario.AccesodeDatos\\Repositorio\\iRepositorio\\iUnidadTrabajo.cs",
+              "ToolTip": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\SistemaInventario.AccesodeDatos\\Repositorio\\iRepositorio\\iUnidadTrabajo.cs",
+              "RelativeToolTip": "SistemaInventario.AccesodeDatos\\Repositorio\\iRepositorio\\iUnidadTrabajo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T04:42:36.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\TutorialASPNET\\Areas\\Admin\\Views\\Producto\\Index.cshtml",
               "RelativeDocumentMoniker": "TutorialASPNET\\Areas\\Admin\\Views\\Producto\\Index.cshtml",
               "ToolTip": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\TutorialASPNET\\Areas\\Admin\\Views\\Producto\\Index.cshtml",
               "RelativeToolTip": "TutorialASPNET\\Areas\\Admin\\Views\\Producto\\Index.cshtml",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAAAfAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAIBJwBoAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-03-19T04:50:12.83Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "Producto.js",
               "DocumentMoniker": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\TutorialASPNET\\wwwroot\\js\\Producto.js",
               "RelativeDocumentMoniker": "TutorialASPNET\\wwwroot\\js\\Producto.js",
@@ -272,7 +335,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 23,
               "Title": "20240319042235_AgregarProductoMigracion.cs",
               "DocumentMoniker": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\SistemaInventario.AccesodeDatos\\Migrations\\20240319042235_AgregarProductoMigracion.cs",
               "RelativeDocumentMoniker": "SistemaInventario.AccesodeDatos\\Migrations\\20240319042235_AgregarProductoMigracion.cs",
@@ -284,7 +347,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "ProductoConfiguracion.cs",
               "DocumentMoniker": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\SistemaInventario.AccesodeDatos\\Configuracion\\ProductoConfiguracion.cs",
               "RelativeDocumentMoniker": "SistemaInventario.AccesodeDatos\\Configuracion\\ProductoConfiguracion.cs",
@@ -296,19 +359,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "Producto.cs",
               "DocumentMoniker": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\SistemaInventario.Modelos\\Producto.cs",
               "RelativeDocumentMoniker": "SistemaInventario.Modelos\\Producto.cs",
               "ToolTip": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\SistemaInventario.Modelos\\Producto.cs",
               "RelativeToolTip": "SistemaInventario.Modelos\\Producto.cs",
-              "ViewState": "AQIAACcAAAAAAAAAAAAqwDIAAAAAAAAA",
+              "ViewState": "AQIAACcAAAAAAAAAAAA8wDIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-19T04:10:01.508Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 20,
               "Title": "TutorialASPNET.csproj",
               "DocumentMoniker": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\TutorialASPNET\\TutorialASPNET.csproj",
               "RelativeDocumentMoniker": "TutorialASPNET\\TutorialASPNET.csproj",
@@ -316,12 +379,11 @@
               "RelativeToolTip": "TutorialASPNET\\TutorialASPNET.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-19T04:09:29.815Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-19T04:09:29.815Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 21,
               "Title": "SistemaInventario.Utilidades.csproj",
               "DocumentMoniker": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj",
               "RelativeDocumentMoniker": "SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj",
@@ -329,12 +391,11 @@
               "RelativeToolTip": "SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-19T04:09:25.563Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-19T04:09:25.563Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 22,
               "Title": "SistemaInventario.Modelos.csproj",
               "DocumentMoniker": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj",
               "RelativeDocumentMoniker": "SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj",
@@ -342,8 +403,7 @@
               "RelativeToolTip": "SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-19T04:08:59.679Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-19T04:08:59.679Z"
             }
           ]
         }

@@ -68,6 +68,7 @@ namespace TutorialASPNET.Areas.Admin.Controllers
         {
             var todos = await _unidadtrabajo.Marca.ObtenerTodos();
             return Json(new { data = todos }); // Aqui es con el nombre con el que se va a referenciar en el javascript
+            
         }
 
         [HttpPost]
