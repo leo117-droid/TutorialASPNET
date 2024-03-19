@@ -10,3 +10,4 @@ C:\Users\leomo\OneDrive\Documents\Trabajos Universidad\TutorialASPNET\SistemaInv
 C:\Users\leomo\OneDrive\Documents\Trabajos Universidad\TutorialASPNET\SistemaInventario.Utilidades\obj\Debug\net8.0\refint\SistemaInventario.Utilidades.dll
 C:\Users\leomo\OneDrive\Documents\Trabajos Universidad\TutorialASPNET\SistemaInventario.Utilidades\obj\Debug\net8.0\SistemaInventario.Utilidades.pdb
 C:\Users\leomo\OneDrive\Documents\Trabajos Universidad\TutorialASPNET\SistemaInventario.Utilidades\obj\Debug\net8.0\ref\SistemaInventario.Utilidades.dll
+C:\Users\leomo\OneDrive\Documents\Trabajos Universidad\TutorialASPNET\SistemaInventario.Utilidades\obj\Debug\net8.0\SistemaInventario.Utilidades.csproj.AssemblyReference.cache
