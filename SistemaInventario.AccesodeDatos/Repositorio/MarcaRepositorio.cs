@@ -19,13 +19,13 @@ namespace SistemaInventario.AccesodeDatos.Repositorio
         }
         public void actualizar(Marca marca)
         {
-            var categoriaDB = _db.Categorias.FirstOrDefault(b => b.Id == marca.Id);
-            if (categoriaDB != null)
+            var marcaDB = _db.Marcas.FirstOrDefault(b => b.Id == marca.Id);
+            if (marcaDB != null)
             {
-                marca.Nombre = categoriaDB.Nombre;
-                marca.Descripcion = categoriaDB.Descripcion;
-                marca.Estado = categoriaDB.Estado;
-                marca.Id = categoriaDB.Id;
+                marca.Nombre = marcaDB.Nombre;
+                marca.Descripcion = marcaDB.Descripcion;
+                marca.Estado = marcaDB.Estado;
+                marca.Id = marcaDB.Id;
                 _db.SaveChanges();
             }
         }

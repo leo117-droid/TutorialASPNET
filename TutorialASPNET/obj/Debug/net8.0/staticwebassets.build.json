@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "449wq0wL9YCj14uxV/TCsFNcEXI/uGOFiG1XfmbtFDI=",
+  "Hash": "zQkb/H58k54CJ6rGV1Kr8lDjswMgkPv9G2Vw1KlkSZ8=",
   "Source": "TutorialASPNET",
   "BasePath": "_content/TutorialASPNET",
   "Mode": "Default",
@@ -1288,6 +1288,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\Marca.js"
+    },
+    {
+      "Identity": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\TutorialASPNET\\wwwroot\\js\\Producto.js",
+      "SourceId": "TutorialASPNET",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\TutorialASPNET\\wwwroot\\",
+      "BasePath": "_content/TutorialASPNET",
+      "RelativePath": "js/Producto.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\Producto.js"
     },
     {
       "Identity": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\TutorialASPNET\\wwwroot\\js\\site.js",
