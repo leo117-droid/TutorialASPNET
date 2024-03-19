@@ -29,5 +29,10 @@ namespace SistemaInventario.AccesodeDatos.Repositorio
                 _db.SaveChanges();
             }
         }
+
+        public Task<Bodega> Obtener(int v)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

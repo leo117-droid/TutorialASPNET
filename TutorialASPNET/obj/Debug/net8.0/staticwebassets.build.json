@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "qosASW//8cr5/S242VaUYvNMmGePONJVizVUQGvFAHQ=",
+  "Hash": "0yh2naeD6PqYL8K+FUgOJ3G7IZNZNovlX8VaYWQR2rw=",
   "Source": "TutorialASPNET",
   "BasePath": "_content/TutorialASPNET",
   "Mode": "Default",
@@ -1231,6 +1231,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\TutorialASPNET\\wwwroot\\js\\Bodega.js",
+      "SourceId": "TutorialASPNET",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\TutorialASPNET\\wwwroot\\",
+      "BasePath": "_content/TutorialASPNET",
+      "RelativePath": "js/Bodega.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\Bodega.js"
     },
     {
       "Identity": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\TutorialASPNET\\wwwroot\\js\\site.js",

@@ -10,5 +10,6 @@ namespace SistemaInventario.AccesodeDatos.Repositorio.iRepositorio
     public interface iBodegaRepositorio : iRepositorio<Bodega>
     {
         void actualizar(Bodega bodega);
+        Task<Bodega> Obtener(int v);
     }
 }
