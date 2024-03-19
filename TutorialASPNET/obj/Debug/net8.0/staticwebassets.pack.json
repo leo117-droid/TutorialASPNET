@@ -17,6 +17,14 @@
       "PackagePath": "staticwebassets\\js\\Bodega.js"
     },
     {
+      "Id": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\TutorialASPNET\\wwwroot\\js\\Categoria.js",
+      "PackagePath": "staticwebassets\\js\\Categoria.js"
+    },
+    {
+      "Id": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\TutorialASPNET\\wwwroot\\js\\Marca.js",
+      "PackagePath": "staticwebassets\\js\\Marca.js"
+    },
+    {
       "Id": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\TutorialASPNET\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

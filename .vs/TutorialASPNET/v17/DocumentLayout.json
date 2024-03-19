@@ -3,32 +3,76 @@
   "WorkspaceRootPath": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C92250D8-68BC-44AB-9768-E6FCAE0E76FE}|SistemaInventario.AccesodeDatos\\SistemaInventario.AccesodeDatos.csproj|c:\\users\\leomo\\onedrive\\documents\\trabajos universidad\\tutorialaspnet\\sistemainventario.accesodedatos\\repositorio\\categoriarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C92250D8-68BC-44AB-9768-E6FCAE0E76FE}|SistemaInventario.AccesodeDatos\\SistemaInventario.AccesodeDatos.csproj|solutionrelative:sistemainventario.accesodedatos\\repositorio\\categoriarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C361E33D-C933-4D13-B4F4-42D4EFADACB3}|TutorialASPNET\\TutorialASPNET.csproj|c:\\users\\leomo\\onedrive\\documents\\trabajos universidad\\tutorialaspnet\\tutorialaspnet\\wwwroot\\js\\marca.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C361E33D-C933-4D13-B4F4-42D4EFADACB3}|TutorialASPNET\\TutorialASPNET.csproj|solutionrelative:tutorialaspnet\\wwwroot\\js\\marca.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C92250D8-68BC-44AB-9768-E6FCAE0E76FE}|SistemaInventario.AccesodeDatos\\SistemaInventario.AccesodeDatos.csproj|c:\\users\\leomo\\onedrive\\documents\\trabajos universidad\\tutorialaspnet\\sistemainventario.accesodedatos\\repositorio\\irepositorio\\icategoriarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C92250D8-68BC-44AB-9768-E6FCAE0E76FE}|SistemaInventario.AccesodeDatos\\SistemaInventario.AccesodeDatos.csproj|solutionrelative:sistemainventario.accesodedatos\\repositorio\\irepositorio\\icategoriarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C361E33D-C933-4D13-B4F4-42D4EFADACB3}|TutorialASPNET\\TutorialASPNET.csproj|c:\\users\\leomo\\onedrive\\documents\\trabajos universidad\\tutorialaspnet\\tutorialaspnet\\areas\\admin\\controllers\\marcacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C361E33D-C933-4D13-B4F4-42D4EFADACB3}|TutorialASPNET\\TutorialASPNET.csproj|solutionrelative:tutorialaspnet\\areas\\admin\\controllers\\marcacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\SistemaInventario.AccesodeDatos\\Migrations\\20240319024628_AgregarCategoriaMigracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SistemaInventario.AccesodeDatos\\Migrations\\20240319024628_AgregarCategoriaMigracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C361E33D-C933-4D13-B4F4-42D4EFADACB3}|TutorialASPNET\\TutorialASPNET.csproj|c:\\users\\leomo\\onedrive\\documents\\trabajos universidad\\tutorialaspnet\\tutorialaspnet\\areas\\admin\\views\\marca\\upsert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C361E33D-C933-4D13-B4F4-42D4EFADACB3}|TutorialASPNET\\TutorialASPNET.csproj|solutionrelative:tutorialaspnet\\areas\\admin\\views\\marca\\upsert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C361E33D-C933-4D13-B4F4-42D4EFADACB3}|TutorialASPNET\\TutorialASPNET.csproj|c:\\users\\leomo\\onedrive\\documents\\trabajos universidad\\tutorialaspnet\\tutorialaspnet\\areas\\admin\\views\\marca\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C361E33D-C933-4D13-B4F4-42D4EFADACB3}|TutorialASPNET\\TutorialASPNET.csproj|solutionrelative:tutorialaspnet\\areas\\admin\\views\\marca\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C361E33D-C933-4D13-B4F4-42D4EFADACB3}|TutorialASPNET\\TutorialASPNET.csproj|c:\\users\\leomo\\onedrive\\documents\\trabajos universidad\\tutorialaspnet\\tutorialaspnet\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C361E33D-C933-4D13-B4F4-42D4EFADACB3}|TutorialASPNET\\TutorialASPNET.csproj|solutionrelative:tutorialaspnet\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C361E33D-C933-4D13-B4F4-42D4EFADACB3}|TutorialASPNET\\TutorialASPNET.csproj|c:\\users\\leomo\\onedrive\\documents\\trabajos universidad\\tutorialaspnet\\tutorialaspnet\\wwwroot\\js\\categoria.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C361E33D-C933-4D13-B4F4-42D4EFADACB3}|TutorialASPNET\\TutorialASPNET.csproj|solutionrelative:tutorialaspnet\\wwwroot\\js\\categoria.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C92250D8-68BC-44AB-9768-E6FCAE0E76FE}|SistemaInventario.AccesodeDatos\\SistemaInventario.AccesodeDatos.csproj|c:\\users\\leomo\\onedrive\\documents\\trabajos universidad\\tutorialaspnet\\sistemainventario.accesodedatos\\repositorio\\unidadtrabajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C92250D8-68BC-44AB-9768-E6FCAE0E76FE}|SistemaInventario.AccesodeDatos\\SistemaInventario.AccesodeDatos.csproj|solutionrelative:sistemainventario.accesodedatos\\repositorio\\unidadtrabajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C92250D8-68BC-44AB-9768-E6FCAE0E76FE}|SistemaInventario.AccesodeDatos\\SistemaInventario.AccesodeDatos.csproj|c:\\users\\leomo\\onedrive\\documents\\trabajos universidad\\tutorialaspnet\\sistemainventario.accesodedatos\\repositorio\\irepositorio\\iunidadtrabajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C92250D8-68BC-44AB-9768-E6FCAE0E76FE}|SistemaInventario.AccesodeDatos\\SistemaInventario.AccesodeDatos.csproj|solutionrelative:sistemainventario.accesodedatos\\repositorio\\irepositorio\\iunidadtrabajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C92250D8-68BC-44AB-9768-E6FCAE0E76FE}|SistemaInventario.AccesodeDatos\\SistemaInventario.AccesodeDatos.csproj|c:\\users\\leomo\\onedrive\\documents\\trabajos universidad\\tutorialaspnet\\sistemainventario.accesodedatos\\repositorio\\marcarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C92250D8-68BC-44AB-9768-E6FCAE0E76FE}|SistemaInventario.AccesodeDatos\\SistemaInventario.AccesodeDatos.csproj|solutionrelative:sistemainventario.accesodedatos\\repositorio\\marcarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C92250D8-68BC-44AB-9768-E6FCAE0E76FE}|SistemaInventario.AccesodeDatos\\SistemaInventario.AccesodeDatos.csproj|c:\\users\\leomo\\onedrive\\documents\\trabajos universidad\\tutorialaspnet\\sistemainventario.accesodedatos\\repositorio\\irepositorio\\imarcarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C92250D8-68BC-44AB-9768-E6FCAE0E76FE}|SistemaInventario.AccesodeDatos\\SistemaInventario.AccesodeDatos.csproj|solutionrelative:sistemainventario.accesodedatos\\repositorio\\irepositorio\\imarcarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\SistemaInventario.AccesodeDatos\\Migrations\\20240319034247_AgregarMarcaMigracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SistemaInventario.AccesodeDatos\\Migrations\\20240319034247_AgregarMarcaMigracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C92250D8-68BC-44AB-9768-E6FCAE0E76FE}|SistemaInventario.AccesodeDatos\\SistemaInventario.AccesodeDatos.csproj|c:\\users\\leomo\\onedrive\\documents\\trabajos universidad\\tutorialaspnet\\sistemainventario.accesodedatos\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C92250D8-68BC-44AB-9768-E6FCAE0E76FE}|SistemaInventario.AccesodeDatos\\SistemaInventario.AccesodeDatos.csproj|solutionrelative:sistemainventario.accesodedatos\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C92250D8-68BC-44AB-9768-E6FCAE0E76FE}|SistemaInventario.AccesodeDatos\\SistemaInventario.AccesodeDatos.csproj|c:\\users\\leomo\\onedrive\\documents\\trabajos universidad\\tutorialaspnet\\sistemainventario.accesodedatos\\configuracion\\bodegaconfiguracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C92250D8-68BC-44AB-9768-E6FCAE0E76FE}|SistemaInventario.AccesodeDatos\\SistemaInventario.AccesodeDatos.csproj|solutionrelative:sistemainventario.accesodedatos\\configuracion\\bodegaconfiguracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C92250D8-68BC-44AB-9768-E6FCAE0E76FE}|SistemaInventario.AccesodeDatos\\SistemaInventario.AccesodeDatos.csproj|c:\\users\\leomo\\onedrive\\documents\\trabajos universidad\\tutorialaspnet\\sistemainventario.accesodedatos\\configuracion\\marcaconfiguracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C92250D8-68BC-44AB-9768-E6FCAE0E76FE}|SistemaInventario.AccesodeDatos\\SistemaInventario.AccesodeDatos.csproj|solutionrelative:sistemainventario.accesodedatos\\configuracion\\marcaconfiguracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C92250D8-68BC-44AB-9768-E6FCAE0E76FE}|SistemaInventario.AccesodeDatos\\SistemaInventario.AccesodeDatos.csproj|c:\\users\\leomo\\onedrive\\documents\\trabajos universidad\\tutorialaspnet\\sistemainventario.accesodedatos\\configuracion\\categoriaconfiguracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C92250D8-68BC-44AB-9768-E6FCAE0E76FE}|SistemaInventario.AccesodeDatos\\SistemaInventario.AccesodeDatos.csproj|solutionrelative:sistemainventario.accesodedatos\\configuracion\\categoriaconfiguracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B48F97E7-FC63-41AE-8BA5-C61127EBEC3F}|SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj|c:\\users\\leomo\\onedrive\\documents\\trabajos universidad\\tutorialaspnet\\sistemainventario.modelos\\marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B48F97E7-FC63-41AE-8BA5-C61127EBEC3F}|SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj|solutionrelative:sistemainventario.modelos\\marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B48F97E7-FC63-41AE-8BA5-C61127EBEC3F}|SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj|c:\\users\\leomo\\onedrive\\documents\\trabajos universidad\\tutorialaspnet\\sistemainventario.modelos\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B48F97E7-FC63-41AE-8BA5-C61127EBEC3F}|SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj|solutionrelative:sistemainventario.modelos\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C361E33D-C933-4D13-B4F4-42D4EFADACB3}|TutorialASPNET\\TutorialASPNET.csproj|c:\\users\\leomo\\onedrive\\documents\\trabajos universidad\\tutorialaspnet\\tutorialaspnet\\areas\\admin\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C361E33D-C933-4D13-B4F4-42D4EFADACB3}|TutorialASPNET\\TutorialASPNET.csproj|solutionrelative:tutorialaspnet\\areas\\admin\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C361E33D-C933-4D13-B4F4-42D4EFADACB3}|TutorialASPNET\\TutorialASPNET.csproj|c:\\users\\leomo\\onedrive\\documents\\trabajos universidad\\tutorialaspnet\\tutorialaspnet\\areas\\admin\\views\\categoria\\upsert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C361E33D-C933-4D13-B4F4-42D4EFADACB3}|TutorialASPNET\\TutorialASPNET.csproj|solutionrelative:tutorialaspnet\\areas\\admin\\views\\categoria\\upsert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C92250D8-68BC-44AB-9768-E6FCAE0E76FE}|SistemaInventario.AccesodeDatos\\SistemaInventario.AccesodeDatos.csproj|c:\\users\\leomo\\onedrive\\documents\\trabajos universidad\\tutorialaspnet\\sistemainventario.accesodedatos\\repositorio\\categoriarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C92250D8-68BC-44AB-9768-E6FCAE0E76FE}|SistemaInventario.AccesodeDatos\\SistemaInventario.AccesodeDatos.csproj|solutionrelative:sistemainventario.accesodedatos\\repositorio\\categoriarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C361E33D-C933-4D13-B4F4-42D4EFADACB3}|TutorialASPNET\\TutorialASPNET.csproj|c:\\users\\leomo\\onedrive\\documents\\trabajos universidad\\tutorialaspnet\\tutorialaspnet\\areas\\admin\\views\\categoria\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C361E33D-C933-4D13-B4F4-42D4EFADACB3}|TutorialASPNET\\TutorialASPNET.csproj|solutionrelative:tutorialaspnet\\areas\\admin\\views\\categoria\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,79 +87,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CategoriaRepositorio.cs",
-              "DocumentMoniker": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\SistemaInventario.AccesodeDatos\\Repositorio\\CategoriaRepositorio.cs",
-              "RelativeDocumentMoniker": "SistemaInventario.AccesodeDatos\\Repositorio\\CategoriaRepositorio.cs",
-              "ToolTip": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\SistemaInventario.AccesodeDatos\\Repositorio\\CategoriaRepositorio.cs",
-              "RelativeToolTip": "SistemaInventario.AccesodeDatos\\Repositorio\\CategoriaRepositorio.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAYwBsAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-19T02:49:27.317Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "iCategoriaRepositorio.cs",
-              "DocumentMoniker": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\SistemaInventario.AccesodeDatos\\Repositorio\\iRepositorio\\iCategoriaRepositorio.cs",
-              "RelativeDocumentMoniker": "SistemaInventario.AccesodeDatos\\Repositorio\\iRepositorio\\iCategoriaRepositorio.cs",
-              "ToolTip": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\SistemaInventario.AccesodeDatos\\Repositorio\\iRepositorio\\iCategoriaRepositorio.cs",
-              "RelativeToolTip": "SistemaInventario.AccesodeDatos\\Repositorio\\iRepositorio\\iCategoriaRepositorio.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-19T02:47:19.593Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "20240319024628_AgregarCategoriaMigracion.cs",
-              "DocumentMoniker": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\SistemaInventario.AccesodeDatos\\Migrations\\20240319024628_AgregarCategoriaMigracion.cs",
-              "RelativeDocumentMoniker": "SistemaInventario.AccesodeDatos\\Migrations\\20240319024628_AgregarCategoriaMigracion.cs",
-              "ToolTip": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\SistemaInventario.AccesodeDatos\\Migrations\\20240319024628_AgregarCategoriaMigracion.cs",
-              "RelativeToolTip": "SistemaInventario.AccesodeDatos\\Migrations\\20240319024628_AgregarCategoriaMigracion.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-19T02:46:28.546Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BodegaConfiguracion.cs",
-              "DocumentMoniker": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\SistemaInventario.AccesodeDatos\\Configuracion\\BodegaConfiguracion.cs",
-              "RelativeDocumentMoniker": "SistemaInventario.AccesodeDatos\\Configuracion\\BodegaConfiguracion.cs",
-              "ToolTip": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\SistemaInventario.AccesodeDatos\\Configuracion\\BodegaConfiguracion.cs",
-              "RelativeToolTip": "SistemaInventario.AccesodeDatos\\Configuracion\\BodegaConfiguracion.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-19T02:42:31.253Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\SistemaInventario.AccesodeDatos\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "SistemaInventario.AccesodeDatos\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\SistemaInventario.AccesodeDatos\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "SistemaInventario.AccesodeDatos\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAkwBAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-19T02:41:43.79Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CategoriaConfiguracion.cs",
-              "DocumentMoniker": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\SistemaInventario.AccesodeDatos\\Configuracion\\CategoriaConfiguracion.cs",
-              "RelativeDocumentMoniker": "SistemaInventario.AccesodeDatos\\Configuracion\\CategoriaConfiguracion.cs",
-              "ToolTip": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\SistemaInventario.AccesodeDatos\\Configuracion\\CategoriaConfiguracion.cs",
-              "RelativeToolTip": "SistemaInventario.AccesodeDatos\\Configuracion\\CategoriaConfiguracion.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAABOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-19T02:40:38.212Z",
+              "Title": "Marca.js",
+              "DocumentMoniker": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\TutorialASPNET\\wwwroot\\js\\Marca.js",
+              "RelativeDocumentMoniker": "TutorialASPNET\\wwwroot\\js\\Marca.js",
+              "ToolTip": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\TutorialASPNET\\wwwroot\\js\\Marca.js",
+              "RelativeToolTip": "TutorialASPNET\\wwwroot\\js\\Marca.js",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAYwD4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-19T04:00:06.561Z",
               "EditorCaption": ""
             },
             {
@@ -128,15 +107,223 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Categoria.cs",
-              "DocumentMoniker": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\SistemaInventario.Modelos\\Categoria.cs",
-              "RelativeDocumentMoniker": "SistemaInventario.Modelos\\Categoria.cs",
-              "ToolTip": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\SistemaInventario.Modelos\\Categoria.cs",
-              "RelativeToolTip": "SistemaInventario.Modelos\\Categoria.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAAAoAAAA",
+              "DocumentIndex": 2,
+              "Title": "Upsert.cshtml",
+              "DocumentMoniker": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\TutorialASPNET\\Areas\\Admin\\Views\\Marca\\Upsert.cshtml",
+              "RelativeDocumentMoniker": "TutorialASPNET\\Areas\\Admin\\Views\\Marca\\Upsert.cshtml",
+              "ToolTip": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\TutorialASPNET\\Areas\\Admin\\Views\\Marca\\Upsert.cshtml",
+              "RelativeToolTip": "TutorialASPNET\\Areas\\Admin\\Views\\Marca\\Upsert.cshtml",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAcwFcAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-19T03:51:49.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\TutorialASPNET\\Areas\\Admin\\Views\\Marca\\Index.cshtml",
+              "RelativeDocumentMoniker": "TutorialASPNET\\Areas\\Admin\\Views\\Marca\\Index.cshtml",
+              "ToolTip": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\TutorialASPNET\\Areas\\Admin\\Views\\Marca\\Index.cshtml",
+              "RelativeToolTip": "TutorialASPNET\\Areas\\Admin\\Views\\Marca\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-19T03:51:40.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MarcaController.cs",
+              "DocumentMoniker": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\TutorialASPNET\\Areas\\Admin\\Controllers\\MarcaController.cs",
+              "RelativeDocumentMoniker": "TutorialASPNET\\Areas\\Admin\\Controllers\\MarcaController.cs",
+              "ToolTip": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\TutorialASPNET\\Areas\\Admin\\Controllers\\MarcaController.cs",
+              "RelativeToolTip": "TutorialASPNET\\Areas\\Admin\\Controllers\\MarcaController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAgwFAAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-19T02:36:59.578Z",
+              "WhenOpened": "2024-03-19T03:47:05.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "iUnidadTrabajo.cs",
+              "DocumentMoniker": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\SistemaInventario.AccesodeDatos\\Repositorio\\iRepositorio\\iUnidadTrabajo.cs",
+              "RelativeDocumentMoniker": "SistemaInventario.AccesodeDatos\\Repositorio\\iRepositorio\\iUnidadTrabajo.cs",
+              "ToolTip": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\SistemaInventario.AccesodeDatos\\Repositorio\\iRepositorio\\iUnidadTrabajo.cs",
+              "RelativeToolTip": "SistemaInventario.AccesodeDatos\\Repositorio\\iRepositorio\\iUnidadTrabajo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T03:45:28.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MarcaRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\SistemaInventario.AccesodeDatos\\Repositorio\\MarcaRepositorio.cs",
+              "RelativeDocumentMoniker": "SistemaInventario.AccesodeDatos\\Repositorio\\MarcaRepositorio.cs",
+              "ToolTip": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\SistemaInventario.AccesodeDatos\\Repositorio\\MarcaRepositorio.cs",
+              "RelativeToolTip": "SistemaInventario.AccesodeDatos\\Repositorio\\MarcaRepositorio.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T03:44:17.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "iMarcaRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\SistemaInventario.AccesodeDatos\\Repositorio\\iRepositorio\\iMarcaRepositorio.cs",
+              "RelativeDocumentMoniker": "SistemaInventario.AccesodeDatos\\Repositorio\\iRepositorio\\iMarcaRepositorio.cs",
+              "ToolTip": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\SistemaInventario.AccesodeDatos\\Repositorio\\iRepositorio\\iMarcaRepositorio.cs",
+              "RelativeToolTip": "SistemaInventario.AccesodeDatos\\Repositorio\\iRepositorio\\iMarcaRepositorio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T03:43:25.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Categoria.js",
+              "DocumentMoniker": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\TutorialASPNET\\wwwroot\\js\\Categoria.js",
+              "RelativeDocumentMoniker": "TutorialASPNET\\wwwroot\\js\\Categoria.js",
+              "ToolTip": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\TutorialASPNET\\wwwroot\\js\\Categoria.js",
+              "RelativeToolTip": "TutorialASPNET\\wwwroot\\js\\Categoria.js",
+              "ViewState": "AQIAADEAAAAAAAAAAAAUwD4AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-19T03:01:30.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\TutorialASPNET\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TutorialASPNET\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\TutorialASPNET\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TutorialASPNET\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACMAAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-19T03:02:36.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20240319034247_AgregarMarcaMigracion.cs",
+              "DocumentMoniker": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\SistemaInventario.AccesodeDatos\\Migrations\\20240319034247_AgregarMarcaMigracion.cs",
+              "RelativeDocumentMoniker": "SistemaInventario.AccesodeDatos\\Migrations\\20240319034247_AgregarMarcaMigracion.cs",
+              "ToolTip": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\SistemaInventario.AccesodeDatos\\Migrations\\20240319034247_AgregarMarcaMigracion.cs",
+              "RelativeToolTip": "SistemaInventario.AccesodeDatos\\Migrations\\20240319034247_AgregarMarcaMigracion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T03:42:47.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\SistemaInventario.AccesodeDatos\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "SistemaInventario.AccesodeDatos\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\SistemaInventario.AccesodeDatos\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "SistemaInventario.AccesodeDatos\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T03:41:56.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UnidadTrabajo.cs",
+              "DocumentMoniker": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\SistemaInventario.AccesodeDatos\\Repositorio\\UnidadTrabajo.cs",
+              "RelativeDocumentMoniker": "SistemaInventario.AccesodeDatos\\Repositorio\\UnidadTrabajo.cs",
+              "ToolTip": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\SistemaInventario.AccesodeDatos\\Repositorio\\UnidadTrabajo.cs",
+              "RelativeToolTip": "SistemaInventario.AccesodeDatos\\Repositorio\\UnidadTrabajo.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBgAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T02:52:49.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MarcaConfiguracion.cs",
+              "DocumentMoniker": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\SistemaInventario.AccesodeDatos\\Configuracion\\MarcaConfiguracion.cs",
+              "RelativeDocumentMoniker": "SistemaInventario.AccesodeDatos\\Configuracion\\MarcaConfiguracion.cs",
+              "ToolTip": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\SistemaInventario.AccesodeDatos\\Configuracion\\MarcaConfiguracion.cs",
+              "RelativeToolTip": "SistemaInventario.AccesodeDatos\\Configuracion\\MarcaConfiguracion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T03:41:13.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Marca.cs",
+              "DocumentMoniker": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\SistemaInventario.Modelos\\Marca.cs",
+              "RelativeDocumentMoniker": "SistemaInventario.Modelos\\Marca.cs",
+              "ToolTip": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\SistemaInventario.Modelos\\Marca.cs",
+              "RelativeToolTip": "SistemaInventario.Modelos\\Marca.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA/wBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T03:39:48.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CategoriaRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\SistemaInventario.AccesodeDatos\\Repositorio\\CategoriaRepositorio.cs",
+              "RelativeDocumentMoniker": "SistemaInventario.AccesodeDatos\\Repositorio\\CategoriaRepositorio.cs",
+              "ToolTip": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\SistemaInventario.AccesodeDatos\\Repositorio\\CategoriaRepositorio.cs",
+              "RelativeToolTip": "SistemaInventario.AccesodeDatos\\Repositorio\\CategoriaRepositorio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T03:20:45.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Upsert.cshtml",
+              "DocumentMoniker": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\TutorialASPNET\\Areas\\Admin\\Views\\Categoria\\Upsert.cshtml",
+              "RelativeDocumentMoniker": "TutorialASPNET\\Areas\\Admin\\Views\\Categoria\\Upsert.cshtml",
+              "ToolTip": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\TutorialASPNET\\Areas\\Admin\\Views\\Categoria\\Upsert.cshtml",
+              "RelativeToolTip": "TutorialASPNET\\Areas\\Admin\\Views\\Categoria\\Upsert.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAwAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-19T03:00:29.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\TutorialASPNET\\Areas\\Admin\\Views\\Categoria\\Index.cshtml",
+              "RelativeDocumentMoniker": "TutorialASPNET\\Areas\\Admin\\Views\\Categoria\\Index.cshtml",
+              "ToolTip": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\TutorialASPNET\\Areas\\Admin\\Views\\Categoria\\Index.cshtml",
+              "RelativeToolTip": "TutorialASPNET\\Areas\\Admin\\Views\\Categoria\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-19T03:00:06.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CategoriaController.cs",
+              "DocumentMoniker": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\TutorialASPNET\\Areas\\Admin\\Controllers\\CategoriaController.cs",
+              "RelativeDocumentMoniker": "TutorialASPNET\\Areas\\Admin\\Controllers\\CategoriaController.cs",
+              "ToolTip": "C:\\Users\\leomo\\OneDrive\\Documents\\Trabajos Universidad\\TutorialASPNET\\TutorialASPNET\\Areas\\Admin\\Controllers\\CategoriaController.cs",
+              "RelativeToolTip": "TutorialASPNET\\Areas\\Admin\\Controllers\\CategoriaController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAA1wCcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T02:54:09.081Z",
               "EditorCaption": ""
             }
           ]
